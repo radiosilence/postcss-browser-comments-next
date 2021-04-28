@@ -1,12 +1,12 @@
 {
   "name": "postcss-browser-comments-next",
-  "version": "4.0.0",
+  "version": "8.0.0",
   "description": "Keep only the CSS you need based on comments and your browserslist",
   "author": "Jonathan Neal <csstools@hotmail.com>",
   "license": "CC0-1.0",
   "repository": "csstools/postcss-browser-comments",
-  "homepage": "https://github.com/csstools/postcss-browser-comments#readme",
-  "bugs": "https://github.com/csstools/postcss-browser-comments/issues",
+  "homepage": "https://github.com/radiosilence/postcss-browser-comments-next#readme",
+  "bugs": "https://github.com/radiosilence/postcss-browser-comments-next/issues",
   "main": "index.cjs.js",
   "module": "index.esm.mjs",
   "files": [
