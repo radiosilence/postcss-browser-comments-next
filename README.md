@@ -1,10 +1,14 @@
+**[Forked from https://github.com/csstools/postcss-browser-comments](https://github.com/csstools/postcss-browser-comments)**
+
+Packages has been forked to use [devpeerapong](https://github.com/devpeerapong/)'s PostCSS 8 compatibility updates.
+
 # PostCSS Browser Comments [<img src="https://postcss.github.io/postcss/logo.svg" alt="PostCSS" width="90" height="90" align="right">][postcss]
 
 [![NPM Version][npm-img]][npm-url]
 [![Build Status][cli-img]][cli-url]
 [![Support Chat][git-img]][git-url]
 
-[PostCSS Browser Comments] lets you keep only the CSS you need based on
+[PostCSS Browser Comments Next] lets you keep only the CSS you need based on
 comments and your [browserslist].
 
 ```css
